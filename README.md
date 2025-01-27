@@ -1,4 +1,4 @@
-# students traces dataset
+# Students traces dataset
 
 This repository contains dataset of students' traces used in the paper:
 
@@ -22,6 +22,8 @@ The file contains 100 anonymized students sequentail traces, where each label re
 Student_ID: anonymized unique student id
 Trace_Lables: categorical labels separated by a hyphen '-', 
 
+## License
+ODC Attribution License (ODC-By)
 
 ## Reference
 
